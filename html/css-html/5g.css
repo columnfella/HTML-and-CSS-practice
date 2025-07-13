@@ -1,0 +1,27 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.free-text {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.span1-text {
+    font-weight: normal;
+    color: gray
+}
+
+.as-text {
+    width: 500px;
+}
+
+.here-text {
+    margin-top: 20px;
+}
+
+.span2-text {
+    color: rgb(0, 174, 255);
+}

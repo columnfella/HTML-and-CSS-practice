@@ -1,0 +1,29 @@
+p {
+    font-family: Verdana;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.title-text {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: left;
+}
+.ex-text {
+    color: gray;
+    margin-bottom: 12px;
+}
+.dsp-text {
+    width: 310px;
+    margin-bottom: 12px;
+}
+.start-button {
+    background-color: green;
+    font-family: Verdana;
+    border: none;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 5px;
+}

@@ -1,0 +1,38 @@
+      /*'font-family' is theme font for the text*/
+      /*'text-align' aligns the text in a specific matter*/
+      /*'width' sets the area of the text to be limited to*/
+      /*'line-height' represents line spacing*/
+      /*CSS specificity:CSS proprieties are assigned to higher priorities selectors (p and . is a selector)*/
+      p {
+        font-family: Arial;
+        margin-top: 0;
+        margin-bottom: 0;
+      }
+      /*'p' targets all paragraphs on the page*/
+      .video-title {
+        font-size: 18px;
+        font-weight: bold;
+        width: 300px;
+        line-height: 24px;
+        margin-bottom: 5px;
+      }
+      .video-stats {
+        font-size: 14px;
+        margin-bottom: 10px;
+      }
+      .video-author {
+        font-size: 14px;
+        margin-bottom: 30px;
+      }
+      .apple-text {
+        background-color: rgb(247, 90, 90);
+        color: white;
+        text-align: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+      }
+      .span-apple:hover {
+        text-decoration: underline;
+        cursor: pointer;
+      }
+    /*use margin in oder to add more space*/

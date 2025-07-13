@@ -1,0 +1,47 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.pfp {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+
+.name-text {
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+.info-text {
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 7px;
+}
+
+.add-button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 16px;
+    padding-left: 16px;
+    border: none;
+    color: white;
+    background-color: rgb(8, 105, 231);
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.friend-info {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.box {
+    box-shadow: 0 0 15px rgba(36, 35, 35, 0.2);
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 6px;
+}
