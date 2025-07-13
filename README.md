@@ -4,4 +4,4 @@ This repository will include some CSS and HTML practice I had done, most of thes
 ## Main resources used:
  https://www.youtube.com/watch?v=G3e-cpL7ofc&amp;t=13858s
 
-* Note: I might push some other practice that I do with time.
+* Note: I may continue to add more practice projects with time.
